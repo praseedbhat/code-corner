@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int n, count = 0;
+    long long n, count = 0;
 
-    scanf("%d", &n);
+    scanf("%lld", &n);
 
     if (n <= 1) {
         printf("not prime\n");
