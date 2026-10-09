@@ -5,3 +5,21 @@
 1 | not prime
 15 | not prime
 1000000007 | prime
+20 | not prime
+22 | not prime
+24 | not prime
+26 | not prime
+28 | not prime
+230 | not prime
+202 | not prime
+204 | not prime
+206 | not prime
+208 | not prime
+2000 | not prime
+2010 | not prime
+266668 | not prime
+7 | prime
+37 | prime
+47 | prime
+67 | prime
+97 | prime
