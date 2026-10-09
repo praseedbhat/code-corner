@@ -5,3 +5,12 @@
 1 | not prime
 15 | not prime
 1000000007 | prime
+23 | prime
+31 | prime
+37 | prime
+43 | prime
+22 | not prime
+24 | not prime
+25 | not prime
+26 | not prime
+28 | not prime
